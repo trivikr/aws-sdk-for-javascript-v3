@@ -1,9 +1,9 @@
 ## AWS SDK For Javascript V3
 
-The open source version of the AWS SDK for JavaScript V3 developer guide. You can submit feedback & requests for changes by submitting issues in this repo or by making proposed changes & submitting a pull request.
+This is the open source version of the developer guide for the the AWS SDK for JavaScript, Version 3.
 
-## License Summary
+**NOTE**
 
-The documentation is made available under the Creative Commons Attribution-ShareAlike 4.0 International License. See the LICENSE file.
+This branch has been deprecated. The open source version of the developer guide is in the [main](https://github.com/awsdocs/aws-sdk-for-javascript-v3/tree/main) branch. Go to that branch to see the latest content.
 
-The sample code within this documentation is made available under the MIT-0 license. See the LICENSE-SAMPLECODE file.
+Also please update your links; this branch (the "master" branch) will soon be removed entirely.
