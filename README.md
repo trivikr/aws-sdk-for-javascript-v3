@@ -1,6 +1,6 @@
 ## AWS SDK For Javascript V3
 
-This is the open source version of the developer guide for the the AWS SDK for JavaScript, Version 3.
+This is the open source version of the developer guide for the AWS SDK for JavaScript, Version 3.
 
 **NOTE**
 
